@@ -1,9 +1,9 @@
 body {
     background-color: lightblue;
-  }
-  
-  h1 {
-    color: navy;
+    background-image: url("../image/logoFITM.jfif");
+    }
+
+  p {
+    color:red;
     margin-left: 20px;
   }
-  
